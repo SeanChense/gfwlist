@@ -2440,7 +2440,10 @@ var domains = {
   "wtfpeople.com": 1, 
   "1-apple.com.tw": 1,
   "developer.android.com": 1,
-  "techcrunch.com": 1
+  "techcrunch.com": 1,
+  "www.parallels.com": 1,
+  "www.kipling-usa.com": 1,
+  "500px.com", 1
 };
 
 var proxy = "SOCKS5 127.0.0.1:1080; SOCKS 127.0.0.1:1080; DIRECT;";
